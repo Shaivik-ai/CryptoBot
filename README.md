@@ -27,11 +27,4 @@ Python
 REST API (Binance Futures)
 
 HMAC SHA256 Signature
-```
-## 🧠 Final Step: GitHub Upload
 
-1. Create a GitHub repo: `cryptobot`
-2. Add `.gitignore` for `config.py`
-3. Push the entire folder
-4. Add `README.md`
-5. Email with subject:
